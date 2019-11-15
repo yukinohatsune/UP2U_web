@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\themes",
+    "\\public\\themes\\admin_simpleboot3",
     "\\public\\themes\\admin_simpleboot3\\admin",
-    "\\public\\themes\\admin_simpleboot3\\admin\\main",
-    "\\vendor"
+    "\\public\\themes\\admin_simpleboot3\\admin\\index"
   ],
-  "SelectedNode": "\\data",
+  "SelectedNode": "\\public\\themes\\admin_simpleboot3\\admin\\login.html",
   "PreviewInSolutionExplorer": false
 }
